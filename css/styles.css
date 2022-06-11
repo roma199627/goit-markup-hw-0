@@ -394,9 +394,15 @@ padding-bottom: 94px;
       height: 100%;
       background-color: #f321c6;
       border-radius: 50%;
-      display: block;
+      display: flex;
+      align-items: center;
+       justify-content: center;
+       
   }
- 
+ .komanda-link-icon{
+     color: chartreuse;
+    
+ }
 .section-two-title{
     font-family: 'Roboto';
     font-style: normal;
