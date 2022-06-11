@@ -25,7 +25,6 @@ body {
 
 }
 
-
                          /* header */
 .header-logo{
 font-family: 'Raleway';
@@ -400,7 +399,8 @@ padding-bottom: 94px;
        
   }
  .komanda-link-icon{
-     color: chartreuse;
+    color: #000;
+    
     
  }
 .section-two-title{
